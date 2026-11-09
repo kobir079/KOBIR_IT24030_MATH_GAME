@@ -11,12 +11,12 @@ A web-based mathematical game built with **Java Servlets, JSP and JDBC (MySQL)**
 - Document and submit a project via GitHub.
 
 ## Technologies Used
-Java 17, Servlet 4.0 / JSP / JSTL, JDBC, MySQL 8, Apache Tomcat 9 / Jetty 9.4, Maven, JUnit 5, HTML/CSS.
+Java 17, Servlet 4.0 / JSP / JSTL, JDBC, MySQL 8, Jetty 9.4, Maven, JUnit 5, HTML/CSS.
 
 ## Software Requirements
 - JDK 17+
 - IntelliJ IDEA
-- Apache Tomcat 9.x (or the Jetty Maven plugin, which needs no separate install)
+-  Jetty Maven plugin, which needs no separate install)
 - MySQL Server 8+
 
 ## Database Configuration
