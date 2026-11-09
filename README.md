@@ -19,22 +19,6 @@ Java 17, Servlet 4.0 / JSP / JSTL, JDBC, MySQL 8, Apache Tomcat 9 / Jetty 9.4, M
 - Apache Tomcat 9.x (or the Jetty Maven plugin, which needs no separate install)
 - MySQL Server 8+
 
-## Project Structure
-MathWhiz/
-├── pom.xml
-├── database/math_whiz_db.sql
-├── src/main/java/
-│   ├── controller/GameServlet.java
-│   ├── model/GameScore.java
-│   ├── service/MathService.java
-│   └── dao/ScoreDAO.java, DBConnection.java
-├── src/main/webapp/
-│   ├── index.jsp, game.jsp, result.jsp, leaderboard.jsp
-│   ├── css/style.css
-│   └── WEB-INF/web.xml
-├── src/test/java/service/MathServiceTest.java
-└── README.md
-
 ## Database Configuration
 1. Run `database/math_whiz_db.sql` in MySQL Workbench.
 2. Open `src/main/java/dao/DBConnection.java` and set your MySQL `USER` and `PASSWORD`
