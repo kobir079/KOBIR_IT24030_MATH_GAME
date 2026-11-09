@@ -81,16 +81,16 @@ Run unit tests with `mvn test`.
 ## Application Screenshots
 
 ### Welcome Page
-
+<img width="388" height="311" alt="WelcomePage" src="https://github.com/user-attachments/assets/51b5a203-8eb6-4056-ab79-83185328d217" />
 
 ### Game Page
-
+<img width="578" height="439" alt="GamePage" src="https://github.com/user-attachments/assets/833234ff-3e06-465a-adc0-45333e90e36d" />
 
 ### Result Page
-
+<img width="545" height="413" alt="ResultPage" src="https://github.com/user-attachments/assets/55e8af39-b5d6-4836-a221-b91113f4d4e0" />
 
 ### Leaderboard
-
+<img width="555" height="307" alt="LeaderboardPage" src="https://github.com/user-attachments/assets/c0461dbe-38a5-481e-9274-d54e69730050" />
 
 ## GitHub Project Directory Link
 https://github.com/kobir079/KOBIR_IT24030_MATH_GAME
