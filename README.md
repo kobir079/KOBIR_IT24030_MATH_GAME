@@ -43,7 +43,7 @@ CREATE TABLE IF NOT EXISTS game_scores (
 4. Create the database (see above) and set the credentials in `DBConnection.java`.
 5. Run with Jetty: Maven panel → MathWhiz → Plugins → jetty → jetty:run
    (or `mvn jetty:run` in a terminal).
-6. Open http://localhost:8080/MathWhiz/
+6. Open http://localhost:8081/MathWhiz/
 
 Alternative (Tomcat 9): Run → Edit Configurations → + → Tomcat Server → Local, choose Tomcat 9,
 deploy `MathWhiz:war exploded`, set Application context to `/MathWhiz`, then Run.
